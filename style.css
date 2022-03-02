@@ -145,13 +145,15 @@ button.random-btn:hover{
         width: 90%;
         
     }
-.slider-btns{
-    position: absolute;
-    width: 150%;
-}
-.slider-btns button {
-    font-size: 25px;
-}
+    .slider-btns {
+        position: absolute;
+        width: 90%;
+    }
+    .slider-btns button {
+        flex-basis: 10%;
+        font-size: 19px;
+    
+    }
 
 
   }
